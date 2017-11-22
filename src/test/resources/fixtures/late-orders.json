@@ -1,0 +1,24 @@
+[
+  {
+    "id":1,
+    "film": {
+      "id": 1,
+      "title": "Matrix 11",
+      "type": "NEW"
+    },
+    "expectedDays" : 1,
+    "rentDate": "2017-11-20T02:06:58.147Z",
+    "returnDate": "2017-11-23T02:06:58.147Z"
+  },
+  {
+    "id":2,
+    "film": {
+      "id": 2,
+      "title": "Spider Man",
+      "type": "REGULAR"
+    },
+    "expectedDays" : 5,
+    "rentDate": "2017-11-20T02:06:58.147Z",
+    "returnDate": "2017-11-26T02:06:58.147Z"
+  }
+]

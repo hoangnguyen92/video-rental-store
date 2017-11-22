@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "customer": {
+    "id": 1,
+    "name": "Hoang Nguyen",
+    "bonusPoint": 0
+  },
+  "orders": [
+    {
+      "id":1,
+      "film": {
+        "id": 1,
+        "title": "Matrix 11",
+        "type": "NEW"
+      },
+      "expectedDays" : 1,
+      "rentDate": "2017-11-20T02:06:58.147Z"
+    },
+    {
+      "id":2,
+      "film": {
+        "id": 2,
+        "title": "Spider Man",
+        "type": "REGULAR"
+      },
+      "expectedDays" : 5,
+      "rentDate": "2017-11-20T02:06:58.147Z"
+    },
+    {
+      "id":3,
+      "film": {
+        "id": 3,
+        "title": "Spider Man 2",
+        "type": "REGULAR"
+      },
+      "expectedDays" : 2,
+      "rentDate": "2017-11-20T02:06:58.147Z"
+    },
+    {
+      "id":4,
+      "film": {
+        "id": 4,
+        "title": "Out of Africa",
+        "type": "OLD"
+      },
+      "expectedDays" : 7,
+      "rentDate": "2017-11-20T02:06:58.147Z"
+    }
+  ],
+  "totalPrice": 0,
+  "totalSurcharges": 0
+}
